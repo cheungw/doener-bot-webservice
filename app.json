@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Shipping Costs Webhook -- WING",
+  "description": "API.AI Shipping Costs Webhook Sapmple -- WING",
+  "repository": "https://github.com/cheungw/doener-bot-webservice.git",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
